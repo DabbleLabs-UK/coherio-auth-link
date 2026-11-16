@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "uk.dabblelabs.coherio.debug.offlineask",
+      "sha256_cert_fingerprints": [
+        "F3:FF:03:D6:D2:FD:B4:38:4E:0A:55:26:45:65:F5:A9:1D:73:B7:CD:D4:CB:4D:9E:19:53:20:BE:7B:1C:27:DB"
+      ]
+    }
+  }
+]
